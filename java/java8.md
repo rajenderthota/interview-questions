@@ -1,9 +1,9 @@
-Sure! Here's a curated list of **Java 8 interview questions** tailored for an experienced developer (5+ years). These cover **core features, real-world use cases**, and **performance trade-offs**, often asked in senior or lead developer interviews.
+Here's a curated list of **Java 8 interview questions** tailored for an experienced developer (5+ years). These cover **core features, real-world use cases**, and **performance trade-offs**, often asked in senior or lead developer interviews.
 
 ---
 
 ### 🔹 **Core Java 8 Concepts**
-
+  
 #### ✅ Lambda Expressions
 1. **What is a lambda expression in Java 8? How is it different from anonymous classes?**
 2. **How does the compiler infer types in lambda expressions?**
@@ -84,5 +84,3 @@ Sure! Here's a curated list of **Java 8 interview questions** tailored for an ex
 38. **How do you decide between using imperative style vs functional style in production code?**
 
 ---
-
-Would you like me to format this as a **PDF or one-pager** for interview prep? Or want sample **answers** or **code examples** for key questions?
